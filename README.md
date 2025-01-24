@@ -44,6 +44,10 @@
   <a href="DeepSeek_V3.pdf"><b>Paper Link</b>👁️</a>
 </p>
 
+<p align="center">
+  <a href="https://www.deepseekv3.com"><b>Try Chat Free</b>👁️</a>
+</p>
+
 
 ## 1. Introduction
 
