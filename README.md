@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.deepseekv3.com"><b>Try Chat Free</b>👁️</a>
+   <a href="https://www.chatstream.org/chat"><b>Try Chat DeepSeek R1 & V3 Free</b>👁️</a>
 </p>
 
 
